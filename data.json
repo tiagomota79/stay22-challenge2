@@ -1,0 +1,1471 @@
+{
+  "airbnb": {
+    "amtOfResults": 14,
+    "isComplete": true,
+    "results": [
+      {
+        "hid": "air1544844",
+        "isInstantBook": true,
+        "data": {
+          "name": "L'inoubliable ",
+          "address": "Villeray-Saint-Michel-Parc-Extension",
+          "thumb": "https://a0.muscache.com/im/pictures/28ac5669-334e-4ee7-b569-11d7060017c2.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": true,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "rating": 5,
+          "reviewCount": 209,
+          "type": "Logement entier",
+          "beds": 1,
+          "guests": 2,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/1544844&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 38,
+              "total": 40,
+              "nightly_f": "38",
+              "total_f": "40",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=1544844&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.564698686997, -73.59589950920284],
+        "prices": {
+          "nightly": 38,
+          "total": 40,
+          "nightly_f": "38",
+          "total_f": "40",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=1544844&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=1544844&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 260
+      },
+      {
+        "hid": "air38215757",
+        "isInstantBook": true,
+        "data": {
+          "name": "Chambre et petit salon  à louer dans Rosemont",
+          "address": "Vieux-Rosemont",
+          "thumb": "https://a0.muscache.com/im/pictures/26a04a8f-76ce-4cde-840e-5e223439b015.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": true,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "rating": 5,
+          "reviewCount": 4,
+          "type": "Chambre privée",
+          "beds": 1,
+          "guests": 1,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/38215757&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 16,
+              "total": 17,
+              "nightly_f": "16",
+              "total_f": "17",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=38215757&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.550409056059515, -73.58482410406116],
+        "prices": {
+          "nightly": 16,
+          "total": 17,
+          "nightly_f": "16",
+          "total_f": "17",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=38215757&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=38215757&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 55
+      },
+      {
+        "hid": "air31102852",
+        "isInstantBook": true,
+        "data": {
+          "name": "Petite chambre simple bien située à Montréal",
+          "address": "Le Plateau-Mont-Royal",
+          "thumb": "https://a0.muscache.com/im/pictures/d6396226-500e-448a-a778-117dc1fe445d.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": false,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "reviewCount": 2,
+          "type": "Chambre privée",
+          "beds": 1,
+          "guests": 1,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/31102852&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 17,
+              "total": 18,
+              "nightly_f": "17",
+              "total_f": "18",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=31102852&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.527088740753044, -73.5927045981903],
+        "prices": {
+          "nightly": 17,
+          "total": 18,
+          "nightly_f": "17",
+          "total_f": "18",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=31102852&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=31102852&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 53
+      },
+      {
+        "hid": "air32017917",
+        "isInstantBook": true,
+        "data": {
+          "name": "Perfectly located renovated modern apartment",
+          "address": "Mercier-Hochelaga-Maisonneuve",
+          "thumb": "https://a0.muscache.com/im/pictures/38d537b6-3b2e-4802-bef7-08cf17dc9fac.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": false,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "rating": 5,
+          "reviewCount": 4,
+          "type": "Logement entier",
+          "beds": 2,
+          "guests": 2,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/32017917&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 25,
+              "total": 26,
+              "nightly_f": "25",
+              "total_f": "26",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=32017917&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.578993284318265, -73.54596822111331],
+        "prices": {
+          "nightly": 25,
+          "total": 26,
+          "nightly_f": "25",
+          "total_f": "26",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=32017917&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=32017917&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 55
+      },
+      {
+        "hid": "air39563898",
+        "isInstantBook": true,
+        "data": {
+          "name": "Grand appartement(1 chambre+salon+cuisine+toilet)",
+          "address": "Ahuntsic-Cartierville",
+          "thumb": "https://a0.muscache.com/im/pictures/0e7bd2ee-5739-40a8-819a-d63346c037ed.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": false,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "reviewCount": 0,
+          "type": "Logement entier",
+          "beds": 0,
+          "guests": 2,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/39563898&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 30,
+              "total": 32,
+              "nightly_f": "30",
+              "total_f": "32",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=39563898&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.55379442108043, -73.65984831852936],
+        "prices": {
+          "nightly": 30,
+          "total": 32,
+          "nightly_f": "30",
+          "total_f": "32",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=39563898&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=39563898&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 51
+      },
+      {
+        "hid": "air10164430",
+        "isInstantBook": true,
+        "data": {
+          "name": "Grand appartement Plateau MontRoyal",
+          "address": "Le Plateau",
+          "thumb": "https://a0.muscache.com/im/pictures/00ee6e9b-9a27-4948-bb23-0e263c2baf83.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": true,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "rating": 4.5,
+          "reviewCount": 6,
+          "type": "Chambre privée",
+          "beds": 0,
+          "guests": 1,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/10164430&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 17,
+              "total": 18,
+              "nightly_f": "17",
+              "total_f": "18",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=10164430&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.53798095962821, -73.57120160201472],
+        "prices": {
+          "nightly": 17,
+          "total": 18,
+          "nightly_f": "17",
+          "total_f": "18",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=10164430&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=10164430&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 57
+      },
+      {
+        "hid": "air23944561",
+        "isInstantBook": true,
+        "data": {
+          "name": "Full Equipped Studio in Downtown Montreal",
+          "address": "Montréal centre",
+          "thumb": "https://a0.muscache.com/im/pictures/4aab115b-5e7a-45cf-9477-88c5fe5d69a7.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": false,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "rating": 4.5,
+          "reviewCount": 222,
+          "type": "Logement entier",
+          "beds": 1,
+          "guests": 2,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/23944561&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 39,
+              "total": 41,
+              "nightly_f": "39",
+              "total_f": "41",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=23944561&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.52278045088497, -73.56037706284356],
+        "prices": {
+          "nightly": 39,
+          "total": 41,
+          "nightly_f": "39",
+          "total_f": "41",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=23944561&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=23944561&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 273
+      },
+      {
+        "hid": "air21984374",
+        "isInstantBook": true,
+        "data": {
+          "name": "Grand logement paisible à 20 min du centre-ville",
+          "address": "Ahuntsic-Cartierville",
+          "thumb": "https://a0.muscache.com/im/pictures/489a68ea-9258-4ebc-8534-71ae65a7e781.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": true,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "rating": 5,
+          "reviewCount": 94,
+          "type": "Loft entier",
+          "beds": 2,
+          "guests": 4,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/21984374&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 50,
+              "total": 53,
+              "nightly_f": "50",
+              "total_f": "53",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=21984374&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.54861120627806, -73.65397077031746],
+        "prices": {
+          "nightly": 50,
+          "total": 53,
+          "nightly_f": "50",
+          "total_f": "53",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=21984374&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=21984374&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 145
+      },
+      {
+        "hid": "air23436381",
+        "isInstantBook": true,
+        "data": {
+          "name": "Cozy Bedroom at Côte des Neiges, 5min from subway",
+          "address": "Côte-des-Neiges",
+          "thumb": "https://a0.muscache.com/im/pictures/000453dc-fec5-4367-9ebf-502d432b4893.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": false,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "rating": 4.5,
+          "reviewCount": 38,
+          "type": "Chambre privée",
+          "beds": 1,
+          "guests": 1,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/23436381&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 25,
+              "total": 26,
+              "nightly_f": "25",
+              "total_f": "26",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=23436381&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.488179905097184, -73.62468940865183],
+        "prices": {
+          "nightly": 25,
+          "total": 26,
+          "nightly_f": "25",
+          "total_f": "26",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=23436381&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=23436381&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 89
+      },
+      {
+        "hid": "air40595131",
+        "isInstantBook": true,
+        "data": {
+          "name": "Logement complètement rénové au coeur du Plateau!",
+          "address": "Le Plateau",
+          "thumb": "https://a0.muscache.com/im/pictures/ed9b9bee-44f0-469d-aac9-6f8d465b2432.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": true,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "rating": 5,
+          "reviewCount": 17,
+          "type": "Logement entier",
+          "beds": 1,
+          "guests": 2,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/40595131&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 55,
+              "total": 58,
+              "nightly_f": "55",
+              "total_f": "58",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=40595131&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.52632610650358, -73.57492749970022],
+        "prices": {
+          "nightly": 55,
+          "total": 58,
+          "nightly_f": "55",
+          "total_f": "58",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=40595131&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=40595131&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 68
+      },
+      {
+        "hid": "air41146810",
+        "isInstantBook": true,
+        "data": {
+          "name": "Big room immense chambre",
+          "address": "Ahuntsic-Cartierville",
+          "thumb": "https://a0.muscache.com/im/pictures/431edbf8-c678-4e11-a7c0-e313fb9fdcee.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": false,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "reviewCount": 0,
+          "type": "Chambre privée",
+          "guests": 1,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/41146810&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 20,
+              "total": 21,
+              "nightly_f": "20",
+              "total_f": "21",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=41146810&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.560634398689025, -73.66280467760978],
+        "prices": {
+          "nightly": 20,
+          "total": 21,
+          "nightly_f": "20",
+          "total_f": "21",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=41146810&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=41146810&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 51
+      },
+      {
+        "hid": "air28338915",
+        "isInstantBook": true,
+        "data": {
+          "name": "Amazing View of Downtown Montreal",
+          "address": "Le Plateau",
+          "thumb": "https://a0.muscache.com/im/pictures/1e5b5f7f-1bfb-4c8b-9b5d-095fcda15820.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": false,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "rating": 4.5,
+          "reviewCount": 168,
+          "type": "Logement entier",
+          "beds": 1,
+          "guests": 2,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/28338915&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 53,
+              "total": 56,
+              "nightly_f": "53",
+              "total_f": "56",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=28338915&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.51285488885723, -73.56959568089019],
+        "prices": {
+          "nightly": 53,
+          "total": 56,
+          "nightly_f": "53",
+          "total_f": "56",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=28338915&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=28338915&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 219
+      },
+      {
+        "hid": "air19263139",
+        "isInstantBook": true,
+        "data": {
+          "name": "Comfortable Chambre à louer -Excellent Location¡¡¡",
+          "address": "Côte-des-Neiges",
+          "thumb": "https://a0.muscache.com/im/pictures/43ee6aee-19c4-4aab-a879-fc49c70c9586.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": false,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "rating": 4.5,
+          "reviewCount": 3,
+          "type": "Chambre privée",
+          "beds": 1,
+          "guests": 1,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/19263139&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 20,
+              "total": 21,
+              "nightly_f": "20",
+              "total_f": "21",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=19263139&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.49753385331934, -73.63705330407218],
+        "prices": {
+          "nightly": 20,
+          "total": 21,
+          "nightly_f": "20",
+          "total_f": "21",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=19263139&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=19263139&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 54
+      },
+      {
+        "hid": "air29925779",
+        "isInstantBook": true,
+        "data": {
+          "name": "great single bedroom",
+          "address": "Hochelaga-Maisonneuve",
+          "thumb": "https://a0.muscache.com/im/pictures/a5084ab3-a80b-49d6-bc20-f85c82f7d671.jpg?aki_policy=large",
+          "isAirbnbPlus": false,
+          "isAirbnbLuxe": false,
+          "isSuperHost": false,
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "rating": 4,
+          "reviewCount": 10,
+          "type": "Chambre privée",
+          "beds": 1,
+          "guests": 1,
+          "urlDirect": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/rooms/29925779&subId1=222&sharedid=222&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+          "rates": [
+            {
+              "nightly": 15,
+              "total": 16,
+              "nightly_f": "15",
+              "total_f": "16",
+              "hotelProvider": {
+                "code": "airbnb",
+                "name": "airbnb",
+                "logo": "/images/providers/airbnb.png"
+              },
+              "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=29925779&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+            }
+          ],
+          "isAirbnb": true
+        },
+        "latLng": [45.538698425077776, -73.5526439350119],
+        "prices": {
+          "nightly": 15,
+          "total": 16,
+          "nightly_f": "15",
+          "total_f": "16",
+          "hotelProvider": {
+            "code": "airbnb",
+            "name": "airbnb",
+            "logo": "/images/providers/airbnb.png"
+          },
+          "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=29925779&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
+        },
+        "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=29925779&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada",
+        "zScore": 61
+      }
+    ],
+    "provider": "airbnb",
+    "category": "rentals",
+    "status": 200
+  },
+
+  "booking": {
+    "amtOfResults": 14,
+    "status": 200,
+    "results": [
+      {
+        "hid": "bk-76127",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::76127",
+          "name": "Quality Hotel Dorval",
+          "address": "7700 Cote de Liesse, Dorval",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/210377122.jpg?k=26a84dd3ec048b48676c888728810edee2e0d0f713329c08fe93e0c67742a3d3&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "stars": 4,
+          "type": "Hotels",
+          "availableRooms": 5,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "Queen Room",
+          "urlDirect": "https://www.booking.com/hotel/ca/quality-dorval.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 343,
+              "total_f": "343",
+              "nightly_f": "144",
+              "nightly": 143.99,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/quality-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.47823, -73.701],
+        "prices": {
+          "total": 343,
+          "total_f": "343",
+          "nightly_f": "144",
+          "nightly": 143.99,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/quality-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/quality-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-28632",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::28632",
+          "name": "Comfort Inn Airport Dorval",
+          "address": "340 Michel Jasmin, Dorval",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/170446645.jpg?k=49ea84dc5662129bc228a2f0f0c2b2d74620ff358c5c30aa1942ac65ac993382&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "stars": 3,
+          "type": "Hotels",
+          "availableRooms": 5,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "King Room 2nd Floor Non Smoking",
+          "urlDirect": "https://www.booking.com/hotel/ca/comfort-inn-air-dorval.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 386,
+              "total_f": "386",
+              "nightly_f": "157",
+              "nightly": 157.49,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/comfort-inn-air-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.45515, -73.73239],
+        "prices": {
+          "total": 386,
+          "total_f": "386",
+          "nightly_f": "157",
+          "nightly": 157.49,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/comfort-inn-air-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/comfort-inn-air-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-185432",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::185432",
+          "name": "Montreal Airport Marriott In-Terminal Hotel",
+          "address": "800 Place Leigh Capreol, Dorval",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/192985966.jpg?k=f7d39832c03fbe9128cef11ff3ff634e7c5339a7193c42a86d6529902482c98a&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "stars": 4,
+          "type": "Hotels",
+          "availableRooms": 5,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "Concierge level, Guest room, 1 King or 2 Queen",
+          "urlDirect": "https://www.booking.com/hotel/ca/marriott-montreal-airport.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 735,
+              "total_f": "735",
+              "nightly_f": "309",
+              "nightly": 309,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/marriott-montreal-airport.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.45546, -73.7518],
+        "prices": {
+          "total": 735,
+          "total_f": "735",
+          "nightly_f": "309",
+          "nightly": 309,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/marriott-montreal-airport.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/marriott-montreal-airport.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-76897",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::76897",
+          "name": "Fairfield Inn & Suites by Marriott Montreal Airport",
+          "address": "700 Avenue Michel Jasmin, Dorval",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/18729364.jpg?k=498450a9f69aa7f917de4845942697e7acb399c29de60f0d0ace9f67e0f02b2c&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "stars": 3,
+          "type": "Hotels",
+          "availableRooms": 3,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "Studio Lit King-Size avec Canapé-Lit",
+          "urlDirect": "https://www.booking.com/hotel/ca/marriott-fairfield-inn-and-suites.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 533,
+              "total_f": "533",
+              "nightly_f": "224",
+              "nightly": 224,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/marriott-fairfield-inn-and-suites.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.44974, -73.73986],
+        "prices": {
+          "total": 533,
+          "total_f": "533",
+          "nightly_f": "224",
+          "nightly": 224,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/marriott-fairfield-inn-and-suites.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/marriott-fairfield-inn-and-suites.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-78992",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::78992",
+          "name": "Quality Inn & Suites Aéroport P.E. Montréal-Trudeau Airport",
+          "address": "1010, chemin Herron Road, Dorval",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/179818748.jpg?k=e526b782b0d29b126b236b75ed97a15a86b22a0765467507431e7711b78fbb2d&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "stars": 3,
+          "type": "Hotels",
+          "availableRooms": 5,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "Chambre Lit Queen-Size - Non-Fumeurs",
+          "urlDirect": "https://www.booking.com/hotel/ca/h9s1b3.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 338,
+              "total_f": "338",
+              "nightly_f": "142",
+              "nightly": 142,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/h9s1b3.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.44753, -73.74811],
+        "prices": {
+          "total": 338,
+          "total_f": "338",
+          "nightly_f": "142",
+          "nightly": 142,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/h9s1b3.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/h9s1b3.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-185570",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::185570",
+          "name": "Beausejour Hotel Apartments/Hotel Dorval",
+          "address": "440 Roy Avenue, Dorval",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/218965784.jpg?k=3336fe278e5c375ecbdcec861facd130e4bfbb98a0a4bf2dcac24d2847ad3fe9&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "stars": 3,
+          "type": "Aparthotels",
+          "availableRooms": 10,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "Studio",
+          "urlDirect": "https://www.booking.com/hotel/ca/bonsejour-apartments-dorval.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 298,
+              "total_f": "298",
+              "nightly_f": "125",
+              "nightly": 125.3,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/bonsejour-apartments-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.44695, -73.74876],
+        "prices": {
+          "total": 298,
+          "total_f": "298",
+          "nightly_f": "125",
+          "nightly": 125.3,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/bonsejour-apartments-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/bonsejour-apartments-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-3701554",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::3701554",
+          "name": "LeQube Studios",
+          "address": "4114 Rue Saint-Denis, Montréal",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/226406887.jpg?k=c5669dd4ca805d026e30cb9dd91f27af9f96101513e217cfda17f106dcbd348d&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "type": "Aparthotels",
+          "availableRooms": 1,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "Studio Apartment",
+          "urlDirect": "https://www.booking.com/hotel/ca/leqube-saint-denis.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 499,
+              "total_f": "499",
+              "nightly_f": "177",
+              "nightly": 177,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/leqube-saint-denis.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.52104, -73.57704],
+        "prices": {
+          "total": 499,
+          "total_f": "499",
+          "nightly_f": "177",
+          "nightly": 177,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/leqube-saint-denis.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/leqube-saint-denis.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-4883857",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::4883857",
+          "name": "Dr. Penfield by Bouticstay",
+          "address": "1597 Avenue du Docteur-Penfield, Montréal",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/191025589.jpg?k=2d4155456753cb6dd0a3dc6f51be048890fd52f53a2d9fdccff441e9c3bb7753&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "type": "Aparthotels",
+          "availableRooms": 1,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "Family Studio",
+          "urlDirect": "https://www.booking.com/hotel/ca/premium-stays.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 404,
+              "total_f": "404",
+              "nightly_f": "183",
+              "nightly": 183.2,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/premium-stays.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.4964, -73.58665],
+        "prices": {
+          "total": 404,
+          "total_f": "404",
+          "nightly_f": "183",
+          "nightly": 183.2,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/premium-stays.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/premium-stays.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-339085",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::339085",
+          "name": "Hotel Brossard",
+          "address": "7365 boulevard Marie-Victorin, Brossard",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/227298119.jpg?k=6b342a3babbdc4e4531a2124592960f41d8ec5b9ff98deb399ce0d951eca8716&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "stars": 3,
+          "type": "Hotels",
+          "availableRooms": 10,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "King Room",
+          "urlDirect": "https://www.booking.com/hotel/ca/brossard.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 347,
+              "total_f": "347",
+              "nightly_f": "146",
+              "nightly": 145.8,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.46279, -73.49233],
+        "prices": {
+          "total": 347,
+          "total_f": "347",
+          "nightly_f": "146",
+          "nightly": 145.8,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-76463",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::76463",
+          "name": "Best Western Brossard",
+          "address": "7746 Taschereau Boulevard, Brossard",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/163574280.jpg?k=0766f9606538299c81ceb0b9c5a6d4f7a7ef46f19571de4164e8f35106090f0b&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "stars": 3,
+          "type": "Hotels",
+          "availableRooms": 9,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "Queen Room with Sofa Bed",
+          "urlDirect": "https://www.booking.com/hotel/ca/b-w-national-brossard-quebec.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 375,
+              "total_f": "375",
+              "nightly_f": "158",
+              "nightly": 157.52,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/b-w-national-brossard-quebec.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.45396, -73.46692],
+        "prices": {
+          "total": 375,
+          "total_f": "375",
+          "nightly_f": "158",
+          "nightly": 157.52,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/b-w-national-brossard-quebec.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/b-w-national-brossard-quebec.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-45650",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::45650",
+          "name": "Comfort Inn Brossard",
+          "address": "7863 Boulevard Taschereau, Brossard",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/170446415.jpg?k=32ef33f6c21a8dde7ed6149dfbfcac102afd984208c1d6f124b698701c634276&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "stars": 3,
+          "type": "Hotels",
+          "availableRooms": 5,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "Deluxe Room with Two Double Beds - Ground Floor",
+          "urlDirect": "https://www.booking.com/hotel/ca/comfort-inn-brossard.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 296,
+              "total_f": "296",
+              "nightly_f": "124",
+              "nightly": 124.19,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/comfort-inn-brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.45214, -73.46536],
+        "prices": {
+          "total": 296,
+          "total_f": "296",
+          "nightly_f": "124",
+          "nightly": 124.19,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/comfort-inn-brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/comfort-inn-brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-3257382",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::3257382",
+          "name": "Hôtel Alt+ Quartier DIX30",
+          "address": "9156 Boulevard Leduc, Brossard",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/148274533.jpg?k=c7ff740f14616c138e003646910de729f93e059c0dcc7f7bcee6c27dd4cd17a3&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "stars": 4,
+          "type": "Hotels",
+          "availableRooms": 10,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "Studio Lit King-Size - Non remboursable",
+          "urlDirect": "https://www.booking.com/hotel/ca/alt-quartier-dix30-brossard.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 403,
+              "total_f": "403",
+              "nightly_f": "170",
+              "nightly": 170.1,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/alt-quartier-dix30-brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.45028, -73.4447],
+        "prices": {
+          "total": 403,
+          "total_f": "403",
+          "nightly_f": "170",
+          "nightly": 170.1,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/alt-quartier-dix30-brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/alt-quartier-dix30-brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-185423",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::185423",
+          "name": "Super 8 by Wyndham St-Jerome",
+          "address": "3 Rue John F. Kennedy, Saint-Jérôme",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/157868985.jpg?k=8cc3e8101b9fc7660f58e91aa39972b3c7f164e6dde461994ffa0cc6b95ab425&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "stars": 3,
+          "type": "Hotels",
+          "availableRooms": 9,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "Chambre Lit King-Size - Non-Fumeurs - Non remboursable",
+          "urlDirect": "https://www.booking.com/hotel/ca/super-8-saint-jerome.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 243,
+              "total_f": "243",
+              "nightly_f": "102",
+              "nightly": 102,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/super-8-saint-jerome.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.76182, -74.02223],
+        "prices": {
+          "total": 243,
+          "total_f": "243",
+          "nightly_f": "102",
+          "nightly": 102,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/super-8-saint-jerome.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/super-8-saint-jerome.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      },
+      {
+        "hid": "bk-263836",
+        "isInstantBook": true,
+        "data": {
+          "rawid": "bk::263836",
+          "name": "Relais St-Denis",
+          "address": "61 Rue St-Denis, Saint-Sauveur-des-Monts",
+          "thumb": "https://q-xx.bstatic.com/xdata/images/hotel/max500/12470375.jpg?k=6a9a43660f88bb7cf5dfba8195a47e73da43ebf67727a74e9dac395739ab96ce&o=",
+          "rating": 0,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "stars": 3,
+          "isDeal": true,
+          "type": "Hotels",
+          "availableRooms": 4,
+          "logo": "/images/providers/BKS_v2.png",
+          "roomInfo": "Chambre Lit Queen-Size  - Non remboursable",
+          "urlDirect": "https://www.booking.com/hotel/ca/relais-st-denis.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+          "rates": [
+            {
+              "total": 276,
+              "total_f": "276",
+              "nightly_f": "116",
+              "nightly": 116.1,
+              "hotelProvider": {
+                "code": "bk22",
+                "name": "booking",
+                "logo": "/images/providers/BKS_v2.png"
+              },
+              "url": "https://www.booking.com/hotel/ca/relais-st-denis.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+            }
+          ]
+        },
+        "latLng": [45.89003, -74.15553],
+        "prices": {
+          "total": 276,
+          "total_f": "276",
+          "nightly_f": "116",
+          "nightly": 116.1,
+          "hotelProvider": {
+            "code": "bk22",
+            "name": "booking",
+            "logo": "/images/providers/BKS_v2.png"
+          },
+          "url": "https://www.booking.com/hotel/ca/relais-st-denis.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
+        },
+        "url": "https://www.booking.com/hotel/ca/relais-st-denis.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
+        "zScore": 420
+      }
+    ],
+    "provider": "booking",
+    "isComplete": true
+  }
+}
