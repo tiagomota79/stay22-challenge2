@@ -16,7 +16,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "https://www.stay22.com/images/providers/airbnb.png"
           },
           "rating": 5,
           "reviewCount": 209,
@@ -33,7 +33,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=1544844&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -49,7 +49,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=1544844&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -69,7 +69,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "rating": 5,
           "reviewCount": 4,
@@ -86,7 +86,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=38215757&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -102,7 +102,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=38215757&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -122,7 +122,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "reviewCount": 2,
           "type": "Chambre privée",
@@ -138,7 +138,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=31102852&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -154,7 +154,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=31102852&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -174,7 +174,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "rating": 5,
           "reviewCount": 4,
@@ -191,7 +191,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=32017917&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -207,7 +207,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=32017917&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -227,7 +227,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "reviewCount": 0,
           "type": "Logement entier",
@@ -243,7 +243,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=39563898&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -259,7 +259,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=39563898&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -279,7 +279,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "rating": 4.5,
           "reviewCount": 6,
@@ -296,7 +296,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=10164430&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -312,7 +312,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=10164430&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -332,7 +332,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "rating": 4.5,
           "reviewCount": 222,
@@ -349,7 +349,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=23944561&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -365,7 +365,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=23944561&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -385,7 +385,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "rating": 5,
           "reviewCount": 94,
@@ -402,7 +402,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=21984374&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -418,7 +418,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=21984374&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -438,7 +438,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "rating": 4.5,
           "reviewCount": 38,
@@ -455,7 +455,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=23436381&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -471,7 +471,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=23436381&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -491,7 +491,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "rating": 5,
           "reviewCount": 17,
@@ -508,7 +508,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=40595131&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -524,7 +524,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=40595131&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -544,7 +544,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "reviewCount": 0,
           "type": "Chambre privée",
@@ -559,7 +559,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=41146810&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -575,7 +575,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=41146810&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -595,7 +595,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "rating": 4.5,
           "reviewCount": 168,
@@ -612,7 +612,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=28338915&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -628,7 +628,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=28338915&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -648,7 +648,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "rating": 4.5,
           "reviewCount": 3,
@@ -665,7 +665,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=19263139&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -681,7 +681,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=19263139&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -701,7 +701,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "rating": 4,
           "reviewCount": 10,
@@ -718,7 +718,7 @@
               "hotelProvider": {
                 "code": "airbnb",
                 "name": "airbnb",
-                "logo": "/images/providers/airbnb.png"
+                "logo": "/https://www.stay22.com/images/providers/airbnb.png"
               },
               "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=29925779&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
             }
@@ -734,7 +734,7 @@
           "hotelProvider": {
             "code": "airbnb",
             "name": "airbnb",
-            "logo": "/images/providers/airbnb.png"
+            "logo": "/https://www.stay22.com/images/providers/airbnb.png"
           },
           "url": "https://airbnb.pvxt.net/c/436504/264339/4273?u=www.airbnb.com/s/homes&p.omni_page_id=27964&p.dynamic_product_ids[]=29925779&subId1=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&sharedid=stay22_bb037**ersearch-desktop*fr-fr*ca*chrome*0122&p.currency=CAD&p.adults=1&p.children=0&p.infants=0&p.ne_lat=45.94065&p.ne_lng=-73.2843&p.sw_lat=45.17332&p.sw_lng=-74.17557&p.query=Montreal%2C%20Canada"
         },
@@ -763,12 +763,12 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "stars": 4,
           "type": "Hotels",
           "availableRooms": 5,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "Queen Room",
           "urlDirect": "https://www.booking.com/hotel/ca/quality-dorval.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -780,7 +780,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/quality-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -795,7 +795,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/quality-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -814,12 +814,12 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "stars": 3,
           "type": "Hotels",
           "availableRooms": 5,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "King Room 2nd Floor Non Smoking",
           "urlDirect": "https://www.booking.com/hotel/ca/comfort-inn-air-dorval.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -831,7 +831,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/comfort-inn-air-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -846,7 +846,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/comfort-inn-air-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -865,12 +865,12 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "stars": 4,
           "type": "Hotels",
           "availableRooms": 5,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "Concierge level, Guest room, 1 King or 2 Queen",
           "urlDirect": "https://www.booking.com/hotel/ca/marriott-montreal-airport.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -882,7 +882,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/marriott-montreal-airport.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -897,7 +897,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/marriott-montreal-airport.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -916,12 +916,12 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "stars": 3,
           "type": "Hotels",
           "availableRooms": 3,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "Studio Lit King-Size avec Canapé-Lit",
           "urlDirect": "https://www.booking.com/hotel/ca/marriott-fairfield-inn-and-suites.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -933,7 +933,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/marriott-fairfield-inn-and-suites.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -948,7 +948,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/marriott-fairfield-inn-and-suites.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -967,12 +967,12 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "stars": 3,
           "type": "Hotels",
           "availableRooms": 5,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "Chambre Lit Queen-Size - Non-Fumeurs",
           "urlDirect": "https://www.booking.com/hotel/ca/h9s1b3.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -984,7 +984,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/h9s1b3.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -999,7 +999,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/h9s1b3.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -1018,12 +1018,12 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "stars": 3,
           "type": "Aparthotels",
           "availableRooms": 10,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "Studio",
           "urlDirect": "https://www.booking.com/hotel/ca/bonsejour-apartments-dorval.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -1035,7 +1035,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/bonsejour-apartments-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -1050,7 +1050,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/bonsejour-apartments-dorval.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -1069,11 +1069,11 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "type": "Aparthotels",
           "availableRooms": 1,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "Studio Apartment",
           "urlDirect": "https://www.booking.com/hotel/ca/leqube-saint-denis.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -1085,7 +1085,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/leqube-saint-denis.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -1100,7 +1100,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/leqube-saint-denis.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -1119,11 +1119,11 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "type": "Aparthotels",
           "availableRooms": 1,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "Family Studio",
           "urlDirect": "https://www.booking.com/hotel/ca/premium-stays.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -1135,7 +1135,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/premium-stays.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -1150,7 +1150,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/premium-stays.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -1169,12 +1169,12 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "stars": 3,
           "type": "Hotels",
           "availableRooms": 10,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "King Room",
           "urlDirect": "https://www.booking.com/hotel/ca/brossard.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -1186,7 +1186,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -1201,7 +1201,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -1220,12 +1220,12 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "stars": 3,
           "type": "Hotels",
           "availableRooms": 9,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "Queen Room with Sofa Bed",
           "urlDirect": "https://www.booking.com/hotel/ca/b-w-national-brossard-quebec.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -1237,7 +1237,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/b-w-national-brossard-quebec.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -1252,7 +1252,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/b-w-national-brossard-quebec.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -1271,12 +1271,12 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "stars": 3,
           "type": "Hotels",
           "availableRooms": 5,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "Deluxe Room with Two Double Beds - Ground Floor",
           "urlDirect": "https://www.booking.com/hotel/ca/comfort-inn-brossard.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -1288,7 +1288,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/comfort-inn-brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -1303,7 +1303,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/comfort-inn-brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -1322,12 +1322,12 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "stars": 4,
           "type": "Hotels",
           "availableRooms": 10,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "Studio Lit King-Size - Non remboursable",
           "urlDirect": "https://www.booking.com/hotel/ca/alt-quartier-dix30-brossard.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -1339,7 +1339,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/alt-quartier-dix30-brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -1354,7 +1354,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/alt-quartier-dix30-brossard.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -1373,12 +1373,12 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "stars": 3,
           "type": "Hotels",
           "availableRooms": 9,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "Chambre Lit King-Size - Non-Fumeurs - Non remboursable",
           "urlDirect": "https://www.booking.com/hotel/ca/super-8-saint-jerome.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -1390,7 +1390,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/super-8-saint-jerome.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -1405,7 +1405,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/super-8-saint-jerome.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
@@ -1424,13 +1424,13 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "stars": 3,
           "isDeal": true,
           "type": "Hotels",
           "availableRooms": 4,
-          "logo": "/images/providers/BKS_v2.png",
+          "logo": "/https://www.stay22.com/images/providers/BKS_v2.png",
           "roomInfo": "Chambre Lit Queen-Size  - Non remboursable",
           "urlDirect": "https://www.booking.com/hotel/ca/relais-st-denis.fr.html?aid=1897788&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD",
           "rates": [
@@ -1442,7 +1442,7 @@
               "hotelProvider": {
                 "code": "bk22",
                 "name": "booking",
-                "logo": "/images/providers/BKS_v2.png"
+                "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
               },
               "url": "https://www.booking.com/hotel/ca/relais-st-denis.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
             }
@@ -1457,7 +1457,7 @@
           "hotelProvider": {
             "code": "bk22",
             "name": "booking",
-            "logo": "/images/providers/BKS_v2.png"
+            "logo": "/https://www.stay22.com/images/providers/BKS_v2.png"
           },
           "url": "https://www.booking.com/hotel/ca/relais-st-denis.fr.html?aid=1607597&checkin=2020-07-20&checkout=2020-07-22&interval=2&label=stay22_bb037%2A%2Aersearch-desktop%2Afr-fr%2Aca%2Achrome%2A0122&room1=A&selected_currency=CAD"
         },
