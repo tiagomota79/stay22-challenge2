@@ -1,6 +1,11 @@
 $(document).ready(() => {
-  //   const data = $.getJSON('./data.json');
+  //   const data = $.getJSON('/data');
   //   console.log('data');
+  //   console.log(data);
+  const airbnb = $.when(
+    $.getJSON('/data').then(json => console.log('json', json))
+  );
+  console.log(airbnb);
 });
 const mymap = L.map('mapid').setView([45.490998036, -73.56833106], 13);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
